@@ -6,3 +6,5 @@
 - Postavljen GitHub Pages i index.md početna stranica
 - Dodane napredne Markdown značajke (video, emoji, callout)
 - Uvedena grana feature-dokumentacija i merge putem pull requesta
+
+- Dodana grana feature-dokumentacija i promjene spojene putem pull requesta
