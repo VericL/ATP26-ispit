@@ -1,5 +1,9 @@
 Ovaj projekt je edukativni primjer :books: i demonstracija GitHuba :rocket:
 
+> [!NOTE]
+> Ovo je projektna dokumentacija izrađena za ispit i služi kao primjer.
+
+
 
 ## User experience design
 User experience design (UX design, UXD, UED, or XD), upon which is the centralized requirements for "User Experience Design Research" (also known as UX Design Research), defines the experience a user would go through when interacting with a company, its services, and its products. User experience design is a user centered design approach because it considers the user's experience when using a product or platform. Research, data analysis, and test results drive design decisions in UX design rather than aesthetic preferences and opinions, for which is known as UX Design Research. Unlike user interface design, which focuses solely on the design of a computer interface, UX design encompasses all aspects of a user's perceived experience with a product or website, such as its usability, usefulness, desirability, brand perception, and overall performance. UX design is also an element of the customer experience (CX), and encompasses all design aspects and design stages that are around a customer's experience.
@@ -9,7 +13,7 @@ User experience design is a conceptual design discipline rooted in human factors
 
 I invented the term because I thought human interface and usability were too narrow. I wanted to cover all aspects of the person's experience with the system including industrial design graphics, the interface, the physical interaction and the manual. Since then the term has spread widely, so much so that it is starting to lose its meaning. — Donald Norman
 
-##Elements
+## Elements
 Research
 User experience design draws from design approaches like human-computer interaction and user-centered design, and includes elements from similar disciplines like interaction design, visual design, information architecture, user research, and others. Another portion of the research is understanding the end-user and the purpose of the application. Though this might seem clear to the designer, stepping back and empathizing with the user will yield the best results. It helps to identify and prove or disprove assumptions, find commonalities across target audience members, and recognize their needs, goals, and mental models.
 
@@ -114,7 +118,7 @@ def user_experience(score):
 
 | Naziv projekta | Verzija | Autor | Datum | Tehnologije            |
 | -------------- | ------- | ----- | ----- | ---------------------- |
-| ATP26 Ispit    | Kolokvij 1     | Luka Verić  | 15.1.2026.  | Markdown, GitHub Pages |
+| ATP26 Ispit    |        1.0     | Luka Verić  | 15.1.2026.  | Markdown, GitHub Pages |
 
 ## Citat
 > Good design is actually a lot harder to notice than poor design.
