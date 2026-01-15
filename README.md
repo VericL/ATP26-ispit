@@ -96,3 +96,28 @@ While designers conduct tests, they are not testing for the user but for the des
 Usability tests play an important role in the delivery of a cohesive final product; however, a variety of factors influence the testing process. Evaluating qualitative and quantitative methods provides an adequate picture of UX designs, and one of these quantitative methods is A/B testing (see Usability testing). Another key concept in the efficacy of UX design testing is the idea of a persona or the representation of the most common user of a certain website or program, and how these personas would interact with the design in question.[42] At the core of UX design usability testing is the user; however, steps in automating design testing have been made, with Micron developing the Advanced Test Environment (ATE), which automates UX tests on Android-powered smartphones. While quantitative software tools that collect actionable data, such as loggers and mobile agents, provide insight into a user's experience, the qualitative responses that arise from live, user based UX design testing are lost. The ATE serves to simulate a devices movement that affects design orientation and sensor operation in order to estimate the actual experience of the user based on previously collected user testing data.[43]
 
 ## Slike
+![Slika1](universe.jpg)
+![Slika2](mesh.png)
+
+## Primjer koda
+
+```python
+def user_experience(score):
+    if score > 80:
+        return "Excellent UX"
+    else:
+        return "Needs improvement"
+```
+
+| Naziv projekta | Verzija | Autor | Datum | Tehnologije            |
+| -------------- | ------- | ----- | ----- | ---------------------- |
+| ATP26 Ispit    | Kolokvij 1     | Luka Verić  | 15.1.2026.  | Markdown, GitHub Pages |
+
+## Citat
+> Good design is actually a lot harder to notice than poor design.
+>  
+> — Don Norman
+
+
+
+
