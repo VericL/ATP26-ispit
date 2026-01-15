@@ -3,3 +3,6 @@
 Dobrodošli na GitHub Pages stranicu projekta ATP26-ispit.
 
 Ovaj projekt demonstrira izradu dokumentacije u Markdownu, verzioniranje na GitHubu i objavu putem GitHub Pages.
+
+Pogledaj i glavnu dokumentaciju u [README](README.md).
+
