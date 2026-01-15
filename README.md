@@ -118,6 +118,11 @@ def user_experience(score):
 >  
 > — Don Norman
 
+## Dokumenti
+
+- [LICENSE](LICENSE.md)
+- [CHANGELOG](CHANGELOG.md)
+
 
 
 
